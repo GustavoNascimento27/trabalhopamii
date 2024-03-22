@@ -1,4 +1,6 @@
-Alunos: Gustavo Nascimento Rodrigues & Eduardo Kenji Oka Choji
+Alunos: Gustavo Nascimento Rodrigues & Eduardo Kenji Oka Choji 
+2° D.S
+
 ![pamii1](https://github.com/GustavoNascimento27/trabalhopamii/assets/126821696/55e9a1ed-7637-4817-862d-ed54c67448d8)
 
 Criando repositório
