@@ -7,7 +7,7 @@ Criando repositório
 
 ![pamii2](https://github.com/GustavoNascimento27/trabalhopamii/assets/126821696/1b6a85cf-421b-4054-baff-d5ae90e1d00e)
 
-Colocando minha dupla como coloaborador
+Colocando minha dupla como colaborador
 
 ![git init](https://github.com/GustavoNascimento27/trabalhopamii/assets/126821696/dc15e16a-c79e-43f3-b486-58742bebe2a8)
 
